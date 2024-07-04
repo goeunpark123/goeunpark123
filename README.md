@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=goeunpark123&show_icons=true&theme=radical)
+<br><p/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=goeunpark21)](https://solved.ac/{handle})
-<br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=goeunpark123&show_icons=true&theme=radical)
-<br>
+<img src="http://mazandi.herokuapp.com/api?handle=goeunpark21&theme=warm"/>
+<br><p/>
+
 
